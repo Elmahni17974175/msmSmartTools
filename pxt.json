@@ -1,0 +1,16 @@
+
+{
+  "name": "msmSmartTools",
+  "version": "0.0.13",
+  "description": "DaDa:bit + WonderCam via dadabit (blocs pédagogiques: ligne, vision, bras/pince, mission).",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*",
+    "microbit": "*",
+    "dadabit": "github:hiwonder/DaDabit"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "public": true
+}
